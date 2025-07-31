@@ -182,7 +182,6 @@ mindmap
 
 | Project | Advanced Technologies | Technical Innovation | Impact Metrics | Status |
 |---------|----------------------|---------------------|----------------|--------|
-| 🧠 **Hybrid Attention-Gated U-Net + DRL** | Deep Reinforcement Learning, Computer Vision, Attention Mechanisms | Dynamic waste classification with real-time learning capabilities | Smart city infrastructure optimization | 🔄 Under Review (IEEE TII) |
 | 🌐 **Q-Learning SDN-IoT Architecture** | Q-Learning Algorithms, Predictive Mobility Models, Cost-Aware Optimization | Intelligent flow placement in software-defined IoT networks | Network performance enhancement (SCIE Q2) | ✅ Published |
 | 🎮 **ML-Based QoE Prediction Engine** | Deep Learning, Statistical Modeling, Performance Analytics | Real-time quality prediction for mobile gaming platforms | User experience optimization (CORE Tier C) | ✅ Published |
 | 🔍 **Proactive SDN Flow Management** | Hidden Markov Models, Fuzzy Logic, Machine Learning | Predictive flow entry eviction for network optimization | Network efficiency improvement (SCIE Q1) | ✅ Published |
@@ -216,22 +215,19 @@ mindmap
 ## 📚 High-Impact Technical Publications
 
 ### 🔥 Advanced Research Contributions
-
-1. **Hybrid Attention-Gated U-Net with Deep Reinforcement Learning for Dynamic Waste Classification** *(Under Review)*  
-   *IEEE Transactions on Industrial Informatics* - **Advanced AI/ML Architecture** | **Smart City Applications**
    
-2. **Predictive mobility and cost-aware flow placement in SDN-based IoT networks: a Q-learning approach** *(2024)*  
+1. **Predictive mobility and cost-aware flow placement in SDN-based IoT networks: a Q-learning approach** *(2024)*  
    *Journal of Cloud Computing* - **SCIE Q2** | **Machine Learning + SDN Integration**
    
-3. **Deep Learning-Based QoE Prediction for Streaming Services in Mobile Networks** *(2022)*  
+2. **Deep Learning-Based QoE Prediction for Streaming Services in Mobile Networks** *(2022)*  
    *WiMob Conference* - **CORE Tier C, QUALIS Tier B1** | **Neural Network Performance Prediction**
    
-4. **Proactive eviction of flow entry for SDN based on hidden Markov model** *(2020)*  
+3. **Proactive eviction of flow entry for SDN based on hidden Markov model** *(2020)*  
    *Frontiers of Computer Science* - **SCIE Q1** | **Probabilistic Network Optimization**
 
 ### 📊 Research Impact Metrics
-- **4** SCIE Journal Publications (Q1-Q2 Impact Factor)
-- **6** International Conference Papers
+- **2** SCIE Journal Publications (Q1-Q2 Impact Factor)
+- **4** International Conference Papers
 - **Advanced ML Techniques**: Hidden Markov Models, Deep Reinforcement Learning, Q-Learning, Fuzzy Logic
 - **Technical Domains**: SDN, IoT, Computer Vision, Quality of Experience, Network Security
 
