@@ -10,6 +10,8 @@
 
 *"The state is made for man, not man for the state." ― Albert Einstein*
 
+*"If research only remains on paper and never translates into real-world applications, it loses its value. Innovation matters most when it makes a difference beyond the pages."*
+
 </div>
 
 ---
@@ -24,8 +26,6 @@ I'm a **Postdoctoral Researcher** in AI Agents at Ariel University, Israel, with
 - 🔄 **Multi-Agent Systems**: Investigating multi-agent coordination and emergent behaviors in real-world scenarios
 - 🏥 **Applied AI Research**: Applying AI agent architectures to domains such as education, healthcare, and computational social science
 - 🦙 **LLM & RAG Systems**: Exploring Large Language Model applications with LangChain, LangSmith, LangGraph, and LlamaIndex for intelligent document processing
-
-> *"If research only remains on paper and never translates into real-world applications, it loses its value. Innovation matters most when it makes a difference beyond the pages."*
 
 ### 🌍 Academic Journey
 - 🇮🇱 **Postdoctoral Researcher** @ Ariel University (2025-Present)
