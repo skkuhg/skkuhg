@@ -203,7 +203,7 @@ mindmap
 
 <div align="center">
 
-🎓 **PhD Graduate** - Sungkyunkwan University (Ranking: 123rd in QS 2025)  
+🎓 **PhD Graduate** - Sungkyunkwan University (Ranking: 87th in Times 2026)  
 🤖 **Postdoctoral Researcher** - Ariel University (AI Agents & Multi-Agent Systems)  
 🔬 **Postdoc Completed** - Sabanci University (Ranking: 351st-400th in THE 2025)  
 📚 **Former Assistant Professor** - Nusa Putra University (2024-August 2025)  
