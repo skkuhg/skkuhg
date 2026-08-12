@@ -1,4 +1,4 @@
-# Hi there, I'm Gan Huang! 👋
+# Hi there, I'm skkuhg! 👋
 
 <div align="center">
 
@@ -330,6 +330,6 @@ mindmap
 [![Profile Views](https://komarev.com/ghpvc/?username=skkuhg&style=for-the-badge&color=blue)](https://github.com/skkuhg)
 [![GitHub followers](https://img.shields.io/github/followers/skkuhg?style=for-the-badge&color=blue)](https://github.com/skkuhg)
 
-**⭐ From [Gan Huang](https://github.com/skkuhg) - Transforming research into reality, one innovation at a time! ⭐**
+**⭐ From [skkuhg](https://github.com/skkuhg) - Transforming research into reality, one innovation at a time! ⭐**
 
 </div>
