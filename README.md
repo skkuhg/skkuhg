@@ -221,7 +221,7 @@ mindmap
 ### 🔥 Advanced Research Contributions
    
 1. **Predictive mobility and cost-aware flow placement in SDN-based IoT networks: a Q-learning approach** *(2024)*  
-   *Journal of Cloud Computing* - **SCIE Q2** | **Machine Learning + SDN Integration**
+   *Journal of Cloud Computing* - **SCIE Q1** | **Machine Learning + SDN Integration**
    
 2. **Deep Learning-Based QoE Prediction for Streaming Services in Mobile Networks** *(2022)*  
    *WiMob Conference* - **CORE Tier C, QUALIS Tier B1** | **Neural Network Performance Prediction**
