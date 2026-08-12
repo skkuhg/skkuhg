@@ -293,9 +293,7 @@ mindmap
 [![Personal Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://huanggan.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gan-huang-309677232/)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=o_s0MHUAAAAJ&hl=en)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Gan-Huang-10)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-8354-8255)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahczhg@gmail.com)
 
 </div>
 
@@ -305,7 +303,6 @@ mindmap
 
 ### 📍 Location & Contact
 🌏 **Currently in:** Israel  
-📧 **Email:** ahczhg@gmail.com  
 📱 **WhatsApp:** +82 10-7496-6266  
 🎂 **Age:** 34  
 
