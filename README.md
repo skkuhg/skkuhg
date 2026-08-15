@@ -224,7 +224,7 @@ mindmap
    *Journal of Cloud Computing* - **SCIE Q1** | **Machine Learning + SDN Integration**
    
 2. **Deep Learning-Based QoE Prediction for Streaming Services in Mobile Networks** *(2022)*  
-   *WiMob Conference* - **CORE Tier B, QUALIS Tier B1** | **Neural Network Performance Prediction**
+   *WiMob Conference* - **ICORE2026 Tier B, QUALIS Tier B1** | **Neural Network Performance Prediction**
    
 3. **Proactive eviction of flow entry for SDN based on hidden Markov model** *(2020)*  
    *Frontiers of Computer Science* - **SCIE Q1** | **Probabilistic Network Optimization**
